@@ -18,6 +18,7 @@ public class Calculator {
 		System.out.println("»¬¼À : " + (first - second));
 		System.out.println("°ö¼À : " + (first * second));
 		System.out.println("³ª´°¼À : " + (first / second));
+		
 
 	}
 
